@@ -1,4 +1,4 @@
-# NLP Mini Projects 🚀
+# NLP Mini Projects 
 
 This repository contains two natural Language Processing (NLP) projects:
 
